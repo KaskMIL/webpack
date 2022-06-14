@@ -4,53 +4,43 @@
 
 > Description the project.
 
-
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML CSS Javascript
+- Linters and Webpack
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+## [Live Demo](https://kaskmil.github.io/toDo-list/)
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+    NodeJS
+
 ### Setup
+
+    1. git clone https://github.com/KaskMIL/toDo-list.git
+    2. cd Todo_list
 
 ### Install
 
+    npm install
+
 ### Usage
 
-### Run tests
-
-### Deployment
-
+    npm run dev
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Tom Milanesi**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@TomMilanesi](https://github.com/KaskMIL)
+- Twitter: [@TomMilanesi](https://twitter.com/TomasMilanesi)
+- LinkedIn: [Tomas Milanesi](https://www.linkedin.com/in/tomas-milanesi-3427bb185/)
 
 ## 🤝 Contributing
 
@@ -62,11 +52,6 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
